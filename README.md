@@ -1,1 +1,1 @@
-# Basics Concepts of JavaScript Learning
+# Basics Concepts of JavaScript
